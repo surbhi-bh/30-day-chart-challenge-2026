@@ -1,13 +1,8 @@
 # thirty charts in thirty days
-## #30DayChartChallenge2026
 
 My contributions to the [#30DayChartChallenge 2026](https://github.com/30DayChartChallenge/Edition2026).
 
-![](30-day-chart-challenge-prompts.png)
-
 Link to notebook with data for all days: [link]
-
----
 
 <table>
   <tr>
