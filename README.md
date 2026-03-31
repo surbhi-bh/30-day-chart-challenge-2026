@@ -6,7 +6,7 @@ Link to notebook with data for all days: [link]
 
 <table>
   <tr>
-    <td align="center"><b>Day 1: Part-to-Whole</b><br><a href="day1-part-to-whole/"><img src="day1-part-to-whole.svg" width="250"></a><br><a href="">Data</a></td>
+    <td align="center"><b>Day 1: Part-to-Whole</b><br><a href="./day1-part-to-whole/day1-part-to-whole.png"><img src="./day1-part-to-whole/day1-part-to-whole.png" width="250"></a><br><a href="">Data</a></td>
     <td align="center"><b>Day 2: Pictogram</b><br><br><br></td>
     <td align="center"><b>Day 3: Mosaic</b><br><br><br></td>
   </tr>
