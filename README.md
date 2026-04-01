@@ -7,7 +7,7 @@ Link to notebook with data for all days: [link]
 <table>
   <tr>
     <td align="center"><b>Day 1: Part-to-Whole</b><br><a href="./day1-part-to-whole/day1-part-to-whole.png"><img src="./day1-part-to-whole/day1-part-to-whole.png" width="250" alt="Day 1: Part-to-whole chart on increasing screen-to-body ratio of phones I have owned"></a><br></td>
-     <td align="center"><b>Day 1: Part-to-Whole</b><br><a href="./day2-pictogram/day2-pictogram.mp4"><img src="./day2-pictogram/day2-pictogram.mp4" width="250" alt="Day 2: Population pyriamid of India from 1950 to 2100 using warli painting style figures"></a><br></td>
+     <td align="center"><b>Day 2: Pictogram</b><br><img src="./day2-pictogram/day2-pictogram.png" width="250" alt="Day 2: Population pyramid of India from 1950 to 2100 using warli painting style figures"><br></td>
     <td align="center"><b>Day 3: Mosaic</b><br><br><br></td>
   </tr>
   <tr>
