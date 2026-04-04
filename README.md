@@ -12,7 +12,7 @@ Link to notebook with data for all days: [link]
   </tr>
   <tr>
      <td align="center"><b>Day 4: Slope</b><br><img src="./day4-slope/day4-slope-all.png" width="250" alt="Day 4: Ratings and Box Office Earnings of South Indian to Hindi film remakes"><br></td>
-    <td align="center"><b>Day 5: Experimental</b><br><a href="day5-experimental/"><img src="day5-experimental/chart.png" width="250"></a><br><a href="">Data</a></td>
+     <td align="center"><b>Day 4: Slope</b><br><img src="./day5-experimental/day5-experimental.png" width="250" alt="Day 5: Different ingredients that go into preparing sambar in different south indian states"><br></td>
     <td align="center"><b>Day 6: Reporters Without Borders Data Day</b><br><br><br></td>
   </tr>
   <tr>
