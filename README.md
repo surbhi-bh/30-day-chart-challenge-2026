@@ -13,7 +13,7 @@ Link to notebook with data for all days: [link]
   <tr>
      <td align="center"><b>Day 4: Slope</b><br><img src="./day4-slope/day4-slope-all.png" width="250" alt="Day 4: Ratings and Box Office Earnings of South Indian to Hindi film remakes"><br></td>
      <td align="center"><b>Day 5: Experimental</b><br><img src="./day5-experimental/day5-experimental.png" width="250" alt="Day 5: Different ingredients that go into preparing sambar in different south indian states"><br></td>
-     <td align="center"><b>Day 6: Reporters Without Borders Data day</b><br><img src="./day6-reporters-without-borders/day6-reporters-without-borders.png" width="250" alt="Day 6: Press conference by last two prime ministers of India"><br></td>
+     <td align="center"><b>Day 6: Reporters Without Borders Data day</b><br><img src="./day6-reporters-without-borders/day6-reporters-without-borders.png" width="250" alt="Day 6: Press conference by previous and current prime minister of India"><br></td>
   </tr>
   <tr>
     <td align="center"><b>Day 7: Multiscale</b><br><br><br></td>
