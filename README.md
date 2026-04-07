@@ -16,7 +16,7 @@ Link to notebook with data for all days: [link]
      <td align="center"><b>Day 6: Reporters Without Borders Data day</b><br><img src="./day6-reporters-without-borders/day6-reporters-without-borders.png" width="250" alt="Day 6: Press conference by previous and current prime minister of India"><br></td>
   </tr>
   <tr>
-    <td align="center"><b>Day 7: Multiscale</b><br><br><br></td>
+    <td align="center"><b>Day 7: Multiscale</b><br><img src="./day7-multiscale/day7-multiscale.png" width="250" alt="Interest rates on government securities and who lends to Indian government"><br></td>
     <td align="center"><b>Day 8: Circular</b><br><br><br></td>
     <td align="center"><b>Day 9: Wealth</b><br><br><br></td>
   </tr>
