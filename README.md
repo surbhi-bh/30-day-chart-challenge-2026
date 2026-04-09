@@ -17,8 +17,8 @@ Link to notebook with data for all days: [link]
   </tr>
   <tr>
     <td align="center"><b>Day 7: Multiscale</b><br><img src="./day7-multiscale/day7-multiscale.png" width="250" alt="Interest rates on government securities and who lends to Indian government"><br></td>
-    <td align="center"><b>Day 7: Circular</b><br><img src="./day8-circular/day8-circular.png" width="250" alt="Daily Air Quality Index of major Indian cities, 2015 - 2025"><br></td>
-    <td align="center"><b>Day 9: Wealth</b><br><br><br></td>
+    <td align="center"><b>Day 8: Circular</b><br><img src="./day8-circular/day8-circular.png" width="250" alt="Daily Air Quality Index of major Indian cities, 2015 - 2025"><br></td>
+    <td align="center"><b>Day 9: Wealth</b><br><img src="./day9-wealth/day9-wealth.png" width="250" alt="How the world's richest make their money - inheritance or self-made"><br></td>
   </tr>
   <tr>
     <td align="center"><b>Day 10: Pop Culture</b><br><br><br></td>
