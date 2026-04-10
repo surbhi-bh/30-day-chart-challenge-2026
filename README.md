@@ -21,7 +21,7 @@ Link to notebook with data for all days: [link]
     <td align="center"><b>Day 9: Wealth</b><br><img src="./day9-wealth/day9-wealth.png" width="250" alt="How the world's richest make their money - inheritance or self-made"><br></td>
   </tr>
   <tr>
-    <td align="center"><b>Day 10: Pop Culture</b><br><br><br></td>
+     <td align="center"><b>Day 10: Pop culture</b><br><img src="./day10-popculture/day10-popculture.png" width="250" alt="Duration of Bollywood movies from 1951 to 2025"><br></td>
     <td align="center"><b>Day 11: Physical</b><br><br><br></td>
     <td align="center"><b>Day 12: FlowingData Theme Day</b><br><br><br></td>
   </tr>
