@@ -26,7 +26,7 @@ Link to notebook with data for all days: [link]
     <td align="center"><b>Day 12: Flowing Data</b><br><img src="./day12-flowing-data/day12-flowing-data.png" width="250" alt="How men and women in India spend their day, based on National Time-Use Survey 2024"><br></td>
   </tr>
   <tr>
-    <td align="center"><b>Day 13: Ecosystems</b><br><br><br></td>
+     <td align="center"><b>Day 13: Ecosystems</b><br><img src="./day13-ecosystems/day13-ecosystems.png" width="250" alt="Where does the metro go underground vs at elevation in New Delhi, Mumbai, Bangalore, Kolkata."><br></td>
     <td align="center"><b>Day 14: Trade</b><br><br><br></td>
     <td align="center"><b>Day 15: Correlation</b><br><br><br></td>
   </tr>
