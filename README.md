@@ -22,8 +22,8 @@ Link to notebook with data for all days: [link]
   </tr>
   <tr>
      <td align="center"><b>Day 10: Pop culture</b><br><img src="./day10-popculture/day10-popculture.png" width="250" alt="Duration of Bollywood movies from 1951 to 2025"><br></td>
-    <td align="center"><b>Day 11: Physical</b><br><br><br></td>
-    <td align="center"><b>Day 12: FlowingData Theme Day</b><br><br><br></td>
+     <td align="center"><b>Day 11: Physical</b><br><img src="./day11-physical/day11-physical.jpeg" width="250" alt="Share of music revenue from CDs in the US, 1999 and 2024"><br></td>
+    <td align="center"><b>Day 12: Flowing Data</b><br><img src="./day12-flowing-data/day12-flowing-data.png" width="250" alt="How men and women in India spend their day, based on National Time-Use Survey 2024"><br></td>
   </tr>
   <tr>
     <td align="center"><b>Day 13: Ecosystems</b><br><br><br></td>
