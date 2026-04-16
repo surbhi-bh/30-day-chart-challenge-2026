@@ -27,8 +27,8 @@ Link to notebook with data for all days: [link]
   </tr>
   <tr>
      <td align="center"><b>Day 13: Ecosystems</b><br><img src="./day13-ecosystems/day13-ecosystems.png" width="250" alt="Where does the metro go underground vs at elevation in New Delhi, Mumbai, Bangalore, Kolkata."><br></td>
-    <td align="center"><b>Day 14: Trade</b><br><br><br></td>
-    <td align="center"><b>Day 15: Correlation</b><br><br><br></td>
+      <td align="center"><b>Day 14: Trade</b><br><img src="./day14-trade/day14-trade.png" width="250" alt="What do rice exports of different indian states look like?"><br></td>
+    <td align="center"><b>Day 15: Correlation</b><br><img src="./day15-correlation/day15-correlation.png" width="250" alt="Correlation between length of consitution and rule of law of different countries"><br></td>
   </tr>
   <tr>
     <td align="center"><b>Day 16: Causation</b><br><br><br></td>
