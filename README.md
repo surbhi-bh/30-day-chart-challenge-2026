@@ -31,7 +31,7 @@ Link to notebook with data for all days: [link]
     <td align="center"><b>Day 15: Correlation</b><br><img src="./day15-correlation/day15-correlation.png" width="250" alt="Correlation between length of consitution and rule of law of different countries"><br></td>
   </tr>
   <tr>
-    <td align="center"><b>Day 16: Causation</b><br><br><br></td>
+    <td align="center"><b>Day 16: Causation</b><br><img src="./day16-causation/day16-causation.png" width="250" alt="How ATM withdrawals have gone down as UPI transactions increase in India."><br></td>
     <td align="center"><b>Day 17: Remake</b><br><br><br></td>
     <td align="center"><b>Day 18: UNICEF Data Day</b><br><br><br></td>
   </tr>
