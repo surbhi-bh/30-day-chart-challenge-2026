@@ -32,7 +32,7 @@ Link to notebook with data for all days: [link]
   </tr>
   <tr>
     <td align="center"><b>Day 16: Causation</b><br><img src="./day16-causation/day16-causation.png" width="250" alt="How ATM withdrawals have gone down as UPI transactions increase in India."><br></td>
-    <td align="center"><b>Day 14: Trade</b><br><img src="./day17-remake/day17-remake.png" width="250" alt="What does it sounds greek to me in other languages?"><br></td>
+    <td align="center"><b>Day 17: Remake</b><br><img src="./day17-remake/day17-remake.png" width="250" alt="What does it sounds greek to me in other languages?"><br></td>
     <td align="center"><b>Day 18: Unicef</b><br><img src="./day18-unicef/day18-unicef.png" width="250" alt="Under 5 child mortality rate in Palestine from 1975 to 2024"><br></td>
   </tr>
   <tr>
