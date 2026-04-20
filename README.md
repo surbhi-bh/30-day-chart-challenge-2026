@@ -37,7 +37,7 @@ Link to notebook with data for all days: [link]
   </tr>
   <tr>
      <td align="center"><b>Day 19: Evolution</b><br><img src="./day19-evolution/day19-evolution.png" width="250" alt="Evolution of data visualisation techniques: Maps, statistical graphs, technology"><br></td>
-    <td align="center"><b>Day 20: Global Change</b><br><br><br></td>
+    <td align="center"><b>Day 20: Global Change</b><br><img src="./day20-globalchange/day20-globalchange.png" width="250" alt="How has the electricity mix of countries changed from 2000-2024?"><br></td>
     <td align="center"><b>Day 21: Historical</b><br><br><br></td>
   </tr>
   <tr>
