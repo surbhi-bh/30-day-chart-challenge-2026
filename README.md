@@ -13,7 +13,7 @@ Link to notebook with data for all days: [link]
   <tr>
      <td align="center"><b>Day 4: Slope</b><br><img src="./day4-slope/day4-slope-all.png" width="250" alt="Day 4: Ratings and Box Office Earnings of South Indian to Hindi film remakes"><br></td>
      <td align="center"><b>Day 5: Experimental</b><br><img src="./day5-experimental/day5-experimental.png" width="250" alt="Day 5: Different ingredients that go into preparing sambar in different south indian states"><br></td>
-     <td align="center"><b>Day 6: Reporters Without Borders Data day</b><br><img src="./day6-reporters-without-borders/day6-reporters-without-borders.png" width="250" alt="Day 6: Press conference by previous and current prime minister of India"><br></td>
+     <td align="center"><b>Day 6: Reporters Without Borders</b><br><img src="./day6-reporters-without-borders/day6-reporters-without-borders.png" width="250" alt="Day 6: Press conference by previous and current prime minister of India"><br></td>
   </tr>
   <tr>
     <td align="center"><b>Day 7: Multiscale</b><br><img src="./day7-multiscale/day7-multiscale.png" width="250" alt="Interest rates on government securities and who lends to Indian government"><br></td>
@@ -38,10 +38,10 @@ Link to notebook with data for all days: [link]
   <tr>
      <td align="center"><b>Day 19: Evolution</b><br><img src="./day19-evolution/day19-evolution.png" width="250" alt="Evolution of data visualisation techniques: Maps, statistical graphs, technology"><br></td>
     <td align="center"><b>Day 20: Global Change</b><br><img src="./day20-globalchange/day20-globalchange.png" width="250" alt="How has the electricity mix of countries changed from 2000-2024?"><br></td>
-    <td align="center"><b>Day 21: Historical</b><br><br><br></td>
+    <td align="center"><b>Day 21: Historical</b><br><img src="./day21-historical/day21-historical.png" width="250" alt="Airlines active and defunct in india by start and end year, 1920-2025"><br></td>
   </tr>
   <tr>
-    <td align="center"><b>Day 22: New Tool</b><br><br><br></td>
+    <td align="center"><b>Day 22: New Tool</b><br><img src="./day22-newtool/day22-newtool-revised.png" width="250" alt="What share of population lives in the capital city in any country?"><br></td>
     <td align="center"><b>Day 23: Seasons</b><br><br><br></td>
     <td align="center"><b>Day 24: South China Morning Post Theme Day</b><br><br><br></td>
   </tr>
