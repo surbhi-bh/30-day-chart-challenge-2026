@@ -42,8 +42,8 @@ Link to notebook with data for all days: [link]
   </tr>
   <tr>
     <td align="center"><b>Day 22: New Tool</b><br><img src="./day22-newtool/day22-newtool-revised.png" width="250" alt="What share of population lives in the capital city in any country?"><br></td>
-    <td align="center"><b>Day 23: Seasons</b><br><br><br></td>
-    <td align="center"><b>Day 24: South China Morning Post Theme Day</b><br><br><br></td>
+    <td align="center"><b>Day 23: Seasons</b><br><img src="./day23-seasons/day23-seasons.png" width="250" alt="What's the best time to visit indian cities based on their seasons?"><br></td>
+    <td align="center"><b>Day 24: South China Morning Post Theme Day</b><br><img src="./day24-south-china-morning-post/day24-south-china-morning-post.png" width="250" alt="An SCMP style poster on different languages in India and share of people who speak it as their mother tongue."><br></td>
   </tr>
   <tr>
     <td align="center"><b>Day 25: Space</b><br><br><br></td>
