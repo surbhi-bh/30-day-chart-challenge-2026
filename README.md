@@ -46,7 +46,7 @@ Link to notebook with data for all days: [link]
     <td align="center"><b>Day 24: South China Morning Post Theme Day</b><br><img src="./day24-south-china-morning-post/day24-south-china-morning-post.png" width="250" alt="An SCMP style poster on different languages in India and share of people who speak it as their mother tongue."><br></td>
   </tr>
   <tr>
-    <td align="center"><b>Day 25: Space</b><br><br><br></td>
+    <td align="center"><b>Day 25: Space</b><br><img src="./day25-space/day25-space.png" width="250" alt="How many countries have sent missions to the Earth's Orbit and with what success rate."><br></td>
     <td align="center"><b>Day 26: Trend</b><br><br><br></td>
     <td align="center"><b>Day 27: Animation</b><br><br><br></td>
   </tr>
