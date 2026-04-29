@@ -47,12 +47,12 @@ Link to notebook with data for all days: [link]
   </tr>
   <tr>
     <td align="center"><b>Day 25: Space</b><br><img src="./day25-space/day25-space.png" width="250" alt="How many countries have sent missions to the Earth's Orbit and with what success rate."><br></td>
-    <td align="center"><b>Day 26: Trend</b><br><br><br></td>
-    <td align="center"><b>Day 27: Animation</b><br><br><br></td>
+    <td align="center"><b>Day 26: Trend</b><br><img src="./day26-trend/day26-trend.png" width="250" alt="How is Japan's production and export of matcha doing with the rising global matcha trend?"><br></td>
+   <td align="center"><b>Day 27: Animation</b><br><img src="./day27-animation/day27-animation.gif" width="250" alt="Vessel traffic in the Strait of Hormuz amid the US-Iran war"><br></td>
   </tr>
   <tr>
-    <td align="center"><b>Day 28: Modeling</b><br><br><br></td>
-    <td align="center"><b>Day 29: Monochrome</b><br><br><br></td>
-    <td align="center"><b>Day 30: Global Health Data Exchange Data Day</b><br><br><br></td>
+    <td align="center"><b>Day 28: Modeling</b><br><img src="./day28-modeling/day28-modeling.png" width="250" alt="How far are big greenhouse gas emitting nations from their Paris climate target promise?"><br></td>
+    <td align="center"><b>Day 29: Monochrome</b><br><img src="./day29-monochrome/day29-monochrome.png" width="250" alt="What's the protein content in different Indian protein bars?"><br></td>
+    <td align="center"><b>Day 30: Global Health Data Exchange</b><br><img src="./day30-global-health-data-exchange/day30-global-health-data-exchange.png" width="250" alt="How has India's health risk profile changed between 2019 to 2023? What risk factors to health are on the rise vs on a decline?"><br></td>
   </tr>
 </table>
